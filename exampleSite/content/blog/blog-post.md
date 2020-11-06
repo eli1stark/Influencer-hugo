@@ -1,25 +1,19 @@
 ---
-title: "My Awesome Blog Post"
-date: 2019-11-23T15:28:43+06:00
-draft: false
+title: ХУЙ
+date: 2019-11-23T15:28:43.000+06:00
+author: themefisher
+image: images/blog/blog-1.jpg
+description: this is meta description
+categories:
+- Go Language
+tags:
+- Photos
+- HTML
+- Python
+- New
+type: post
 
-# post author
-author : "themefisher"
-
-# post thumb
-image: "images/blog/blog-1.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: ["Go Language"]
-tags: ["Photos", "HTML", "Python", "New"]
-# post type
-type: "post"
 ---
-
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel
 nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem,
 nam voluptate in beatae.
@@ -46,4 +40,3 @@ doloribus hic aperiam maiores fugit.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat
 tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos
 animi laborum iusto expedita sapiente.
-                
